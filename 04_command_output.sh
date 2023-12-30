@@ -1,4 +1,4 @@
 #!/bin/bash
 
-
-ls -l /root/bash-scripting-DO16 > /root/output.txt
+ls -l /root/bash-scripting-DO16 
+#ls -l /root/bash-scripting-DO16 > /root/output.txt
